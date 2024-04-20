@@ -1,45 +1,5 @@
-# Project Title
-
-## Description
-
-## Table of Contents
-
-## Installation
-
-## Usage
-
-## License
-
-## Contributing
-
-## Tests
-
-## Questions
-
-## Author
-
-## Badges
-
-## Features
-
-## How to Contribute
-
-## Tests
-
-## License
-
-## Contact
-
-## Acknowledgements
-
-## FAQ
-
-## Support
-
-## Roadmap
-
-## Authors and acknowledgment
-
-## License
-
-## Project Status
+# Espresso Landing Poster - UI Idea
+### You should open the website in portrait mode for the best experience.
+---
+![Result](./images/landing.png" "a title")
+---
